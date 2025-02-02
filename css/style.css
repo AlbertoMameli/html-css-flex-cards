@@ -24,7 +24,7 @@ img {
 
 
 .sub-title {
-    text-align: justify;
+    text-align:-webkit-center;
     margin: 50px 0;
 
 
@@ -64,8 +64,11 @@ img {
 .content-info {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    padding: 9px;
+    align-items:flex-start;
+    padding: 10px;
+    margin-right: 40px;
+    
+
 
     
    
